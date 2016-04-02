@@ -1,1 +1,2 @@
-i am you 
+i am you.
+I am you.*
