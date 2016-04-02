@@ -1,7 +1,2 @@
-<<<<<<< Updated upstream
 i am you.
 I am you.*
-=======
-i am you 
-No I am a C
->>>>>>> Stashed changes
