@@ -5,3 +5,6 @@ I am you.*
 
 i am you.
 I am you.*
+
+I am a C
+You are A and B
